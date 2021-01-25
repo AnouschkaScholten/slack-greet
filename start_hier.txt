@@ -19,6 +19,7 @@ In meerdere kanalen wordt gesproken over public tech:
 <#CPJC62GUQ|publiccode> - gesprek over de Standard for Public Code en doorontwikkeling daarvan
 <#CFV4B3XE2|developer-overheid-nl> - gedeeld kanaal met de community achter developer.overheid.nl
 <#C7KDQRXMZ|nl-design-system> - het nieuwe Nederlandse Design System wordt besproken en doorontwikkeld
+<#? |innovatiebudget-machtigen> - Vrijwillig Machtigen - hoe kan het beter? Praat en doe mee
 <#C010LT2TRU2|codefornl-codeforall-shared> - gedeeld kanaal met de wereldwijde Code for All community
 
 Daarnaast kijken en spreken we mee over projecten van het ministerie van VWS:
